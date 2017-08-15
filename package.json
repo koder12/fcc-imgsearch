@@ -1,0 +1,26 @@
+{
+  "name": "fcc-img-search",
+  "version": "1.0.0",
+  "description": "FCC Image Search Abstraction Layer",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "fcc",
+    "express",
+    "imgur",
+    "image",
+    "search",
+    "abstraction",
+    "layer"
+  ],
+  "author": "koder12",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "3.8.23",
+    "request": "^2.81.0",
+    "tingodb": "^0.5.1",
+    "tungus": "0.0.5"
+  }
+}
